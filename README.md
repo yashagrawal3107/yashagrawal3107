@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with 
 -->
 
-
+- 🎓 I’m a pre-final year CSE student at Indian Institute of Information Technology Vadodara.   
 - 🔭 I’m currently working on DSA on Leetcode.
 - 🌱 I’m currently learning Dapps development, Nodejs, Solidity.
 - 👯 I’m looking to collaborate on projects related to Blockchain.
