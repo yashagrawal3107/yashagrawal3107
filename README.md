@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 I’m a pre-final year B.Tech CSE student at Indian Institute of Information Technology Vadodara.   
-- 🔭 I’m currently working on DSA on Leetcode.
+- 🔭 I’m currently working on DSA on Leetcode and actively contributing in many open source organizations.
 - 🌱 I’m currently learning Dapps development, Nodejs, Solidity.
 - 👯 I’m looking to collaborate on projects related to Blockchain.
 - 💬 Ask me about Cpp, Binary Search.
