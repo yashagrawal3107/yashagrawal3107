@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Cpp, Binary Search.
 - 📫 How to reach me: justyashagrawal31@gmail.com
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: **Tea is a key** to make me work anything.
+- ⚡ Fun fact: **Tea is a key with Friends** to make me work anything.
 
