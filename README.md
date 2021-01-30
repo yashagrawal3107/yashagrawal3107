@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on DSA on Leetcode and actively contributing in many open source organizations.
 - 🌱 I’m currently learning Dapps development, MERN, Solidity.
 - 👯 I’m looking to collaborate on projects related to Blockchain.
-- 💬 Ask me about Cpp, Binary Search.
+<!-- - 💬 Ask me about Cpp.-->
 - 📫 How to reach me: justyashagrawal31@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: **Tea is a key** to make me work anything.
